@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿void Metod21(string msg, int count)
+{
+int i = 0;
+while (i < count)
+}
